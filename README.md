@@ -6,6 +6,7 @@ Amazon DynamoDB to persist data in a fast, scalable NoSQL store.
 
 
 Architecture Overview
+
 <img width="554" height="308" alt="image" src="https://github.com/user-attachments/assets/f3e9ed58-653e-4866-8a92-7fce0ed5def0" />
 
 How to work:
